@@ -1,5 +1,7 @@
 /**
  * calculate the difference
+ * @date_future is a timestamp
+ * @date_now is a timestamp
  */
 function timeD(date_future, date_now) {
     // get total seconds between the times
